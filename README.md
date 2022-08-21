@@ -1,5 +1,5 @@
 # NPTEL_C_jul_2022
-### MCQs and Codes of **_Problem Solving Through Programming In C_** course by NPTEL (jul-oct, 2022)
+### MCQs and Codes of **_Problem Solving Through Programming In C_** course by NPTEL (Jul'22)
 
 <br>
 
