@@ -11,11 +11,6 @@ This repo has all the asnwers of the MCQs and CODEs from NPTEL SWAYAM's C Progra
 Instructor: **Prof. Anupam Basu** (IIT Kharagpur, India)  
 
 
-> <div>
-  
+Click [here](https://onlinecourses.nptel.ac.in/noc22_cs101/preview) to go to the course. 
 
-  
-</div>
-
-
-Click [here](https://onlinecourses.nptel.ac.in/noc22_cs101/preview) to go to the course. Happy learning!
+_Happy learning!_
