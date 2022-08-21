@@ -21,5 +21,5 @@ printf("%c is a consonant.", ch);
         printf("%c is a vowel.", ch) :
         printf("%c is a consonant.", ch);
 	
-    return 0;
+	return 0;
 }
