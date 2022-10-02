@@ -1,6 +1,6 @@
 /* 
 Write a C program to find the root of the equation using bisection method for different values of allowable errror of the root.
-f(x) = 2x³-3x-5
+	f(x) = 2x³-3x-5
 */
 
 
